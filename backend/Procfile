@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT autotrackbudgetapp_4820.wsgi:application

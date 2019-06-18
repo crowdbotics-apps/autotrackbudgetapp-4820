@@ -1,0 +1,3 @@
+rootProject.name = 'autotrackbudgetapp_4820'
+
+include ':app'
